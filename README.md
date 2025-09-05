@@ -66,6 +66,8 @@ Each bird is controlled by a simple **Neural Network (4-6-1)**:
 - Gap center relative Y distance  
 - Bird’s vertical velocity  
 
+   <img width="143" height="256" alt="NEAR bird Inputs" src="https://github.com/user-attachments/assets/6efb5d1e-ca7a-46eb-baa9-cb1faf7698c1" />
+
 ### 🔹 Hidden Layer
 - 6 neurons
 
