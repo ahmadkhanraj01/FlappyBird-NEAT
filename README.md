@@ -44,7 +44,7 @@ FlappyBirdNEAT/
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/<your-username>/FlappyBird-NEAT.git
+   git clone https://github.com/ahmadkhanraj01/FlappyBird-NEAT.git
    cd FlappyBird-NEAT  
 1. Open **Unity Hub**  
 2. **Add project** from this folder  
