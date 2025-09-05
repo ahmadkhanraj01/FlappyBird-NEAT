@@ -48,8 +48,7 @@ FlappyBirdNEAT/
    cd FlappyBird-NEAT  
 1. Open **Unity Hub**  
 2. **Add project** from this folder  
-3. Make sure to use Unity version **2021.x or later**  
-   > *(Tested version: replace with yours)*  
+3. Make sure to use Unity version **3.13.1 or later**  
 
 ### Play the Game
 1. Open the scene:
@@ -89,7 +88,6 @@ Each bird is controlled by a simple **Neural Network (4-6-1)**:
 <img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/863b3a07-d610-4e71-a115-83e2b6bb8652" />
 
 
-> Add your own screenshots inside a `/screenshots/` folder and link them here.
 
 ---
 
